@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"SistemaEstoqueAtacadÃ£o","l":"Alimento"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"SistemaEstoqueAtacadÃ£o","l":"Brinquedo"},{"p":"SistemaEstoqueAtacadÃ£o","l":"EstoqueInsuficienteException"},{"p":"SistemaEstoqueAtacadÃ£o","l":"Produto"},{"p":"SistemaEstoqueAtacadÃ£o","l":"Vendavel"}];updateSearchResults();
